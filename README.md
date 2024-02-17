@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bogolab" alt="bogolab" /></a> </p>
 
-- 🔭 I’m currently working on **on many Minecraft clients**
+- 🔭 I’m currently working on **on many Minecraft clients** (primarily 1.8.9)
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 Currently learning **Frontend**
+
+-⏱️ I’m programming since **~5 Years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
